@@ -8,6 +8,8 @@
 
 # Lancer la Borne 
 
+cd Borne
+
 ## Lancer l'API
 
 cd back-end
