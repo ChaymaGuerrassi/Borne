@@ -11,9 +11,11 @@
 ## Lancer l'API
 
 cd back-end
+
 npm start
 
 ## Lancer l'interface utilisateur
 
 cd front-end 
+
 npm run dev
